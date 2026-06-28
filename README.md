@@ -10,15 +10,6 @@ npm install
 npm run dev
 ```
 
-## Como publicar no Netlify
-
-1. Suba o projeto no GitHub
-2. Acesse [netlify.com](https://netlify.com)
-3. New project → Import from GitHub → selecione o repositório
-4. Build command: `npm run build`
-5. Publish directory: `dist`
-6. Deploy!
-
 ## Estrutura
 
 ```
